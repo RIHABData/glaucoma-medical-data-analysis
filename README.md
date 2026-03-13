@@ -2,6 +2,10 @@
 
 ## Overview
 This project analyzes glaucoma medical data to identify patterns in diagnosis, risk factors, and patient characteristics.
+![Glaucoma](glaucoma.jpg)
+
+## Data Pipeline
+
 ![Data Pipeline Glaucoma](glaucoma.jpg)
 
 ## Technologies
