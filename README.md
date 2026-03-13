@@ -2,6 +2,7 @@
 
 ## Overview
 This project analyzes glaucoma medical data to identify patterns in diagnosis, risk factors, and patient characteristics.
+(glaucoma.jpg)
 
 ## Technologies
 - Python
@@ -36,7 +37,7 @@ powerbi/ – interactive dashboard
 
 ## Dashboard Preview
 
-![Dashboard](glaucoma.jpg)
+![Dashboard](dashboard.png)
 
 ## Author
 Data analysis project for healthcare analytics.
