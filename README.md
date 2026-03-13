@@ -36,8 +36,7 @@ powerbi/ – interactive dashboard
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
-
+![Dashboard](glaucoma.jpg)
 
 ## Author
 Data analysis project for healthcare analytics.
