@@ -6,7 +6,7 @@ This project analyzes glaucoma medical data to identify patterns in diagnosis, r
 
 ## Data Pipeline
 
-![Data Pipeline Glaucoma](data pipeline.png)
+![Data Pipeline Glaucoma](datapipeline.png)
 
 ## Technologies
 - Python
