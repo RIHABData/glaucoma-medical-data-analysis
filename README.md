@@ -2,7 +2,7 @@
 
 ## Overview
 This project analyzes glaucoma medical data to identify patterns in diagnosis, risk factors, and patient characteristics.
-(glaucoma.jpg)
+![Data Pipeline Glaucoma](glaucoma.jpg)
 
 ## Technologies
 - Python
